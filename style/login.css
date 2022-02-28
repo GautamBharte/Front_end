@@ -1,0 +1,59 @@
+.main-login{
+    margin-top: 6rem;
+    padding: 0 3rem;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+}
+.google{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-bottom: 3rem;
+}
+.register-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+.upperbuttons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.lowerbuttons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#id{
+    width: 200px;
+}
+.name{
+    margin: 0 2rem;
+}
+.email{
+    margin: 0 2rem;
+}
+.mobile{
+    margin: 0 2rem;
+}
+.city{
+    margin: 0 2rem;
+}
+.submit{
+    background-color: rgb(207, 207, 207);
+    width: 8rem;
+}
+.submit button{
+    width: 8rem;
+}
+.submit:hover{
+    background-color: rgb(92, 149, 235);
+}
